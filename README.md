@@ -10,7 +10,7 @@
 
   <br />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim-359221350)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziqnf)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufal-07@graduate.utm.my)
   [![Portfolio Website](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziqnf.github.io)
@@ -74,6 +74,6 @@ I am a 1st-year **Computer Science (Data Engineering)** student at **Universiti 
 
 ## 🌐 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim)
-- ✉️ **Email:** [your.email@example.com](mailto:naufal-07@graduate.utm.my)
-- 🌐 **Portfolio Website:** [your-username.github.io](https://ziqnf.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim-359221350](https://linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim-359221350)
+- ✉️ **Email:** [naufal-07@graduate.utm.my](mailto:naufal-07@graduate.utm.my)
+- 🌐 **Portfolio Website:** [ziqnf.github.io](https://ziqnf.github.io)
