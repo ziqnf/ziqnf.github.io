@@ -1,6 +1,5 @@
 # Hai 👋, Saya Muhammad Haziq Naufal Bin Abd Karim
 
-<img src="profile.png" width="180" align="right" alt="Gambar Profil Haziq">
 
 ### 👨‍💻 Tentang Saya
 Saya merupakan **pelajar tahun pertama** yang mengikuti pengajian dalam jurusan **Sains Komputer (Kejuruteraan Data)** di **Universiti Teknologi Malaysia (UTM)**. Saya mempunyai minat yang mendalam dalam penerokaan teknologi baharu, membina projek berasaskan data, dan sentiasa berusaha untuk meningkatkan kemahiran saya.
