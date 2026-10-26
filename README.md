@@ -2,12 +2,18 @@
 
 <div align="center">
 
-<img src="/images/profile.png" width="150" height="150" style="border-radius: 50%;" alt="Muhammad Haziq Naufal">
+  <!-- Profile Picture from your repository -->
+  <img src="/images/profile.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Muhammad Haziq Naufal">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziqnf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufal-07@graduate.utmm.my)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziqnf.github.io)
+  <h1>Muhammad Haziq Naufal Bin Abd Karim</h1>
+  <p>🎓 <b>Computer Science (Data Engineering) Student at Universiti Teknologi Malaysia (UTM)</b></p>
+
+  <br />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziqnf)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufal-07@graduate.utm.my)
+  [![Portfolio Website](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziqnf.github.io)
 
 </div>
 
@@ -19,8 +25,8 @@ I am a 1st-year **Computer Science (Data Engineering)** student at **Universiti 
 
 - 🎓 **University:** Universiti Teknologi Malaysia (UTM)
 - 📚 **Major:** Bachelor of Computer Science (Data Engineering)
-- 🎯 **Current Focus:** Fundamentals of Programming, Data Structures & Algorithms, Database Design, and Big Data Technologies.
-- 📫 **Contact Me:** `naufal-07@graduate.utm.my`
+- 🎯 **Current Focus:** Programming Fundamentals, Data Structures & Algorithms, Database Design, and Big Data Technologies.
+- 📫 **Email:** `your.email@example.com`
 
 ---
 
@@ -33,7 +39,7 @@ I am a 1st-year **Computer Science (Data Engineering)** student at **Universiti 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<!--### **Data & Databases**
+### **Data & Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -47,7 +53,7 @@ I am a 1st-year **Computer Science (Data Engineering)** student at **Universiti 
 
 ---
 
-## 🚀 Projects
+<!--## 🚀 Projects
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
@@ -61,13 +67,13 @@ I am a 1st-year **Computer Science (Data Engineering)** student at **Universiti 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide=html,css"/>-->
+</div>
 
 ---
 
 ## 🌐 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/muhammad-haziq-naufal-bin-abd-karim)
-- ✉️ **Email:** [naufal-07@graduate.utm.my](mailto:naufal-07@graduate.utm.my)
-- 🌐 **Portfolio Website:** [ziqnf.github.io](https://ziqnf.github.io)
+- ✉️ **Email:** [your.email@example.com](mailto:naufal-07@graduate.utm.my)
+- 🌐 **Portfolio Website:** [your-username.github.io](https://ziqnf.github.io)
